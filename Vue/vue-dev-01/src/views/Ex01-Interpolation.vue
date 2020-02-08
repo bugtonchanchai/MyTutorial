@@ -1,13 +1,13 @@
 <template>
-  <div id="ex01">
-    <h2>Ex01 Interpolation</h2>
+  <div id="ex-01">
+    <h2>Ex01 - Interpolation</h2>
     <div>{{ message }}</div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "ex01",
+  name: "ex-01",
   data() {
     return {
       message: "This message from interpolation"

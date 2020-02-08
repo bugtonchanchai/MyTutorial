@@ -1,6 +1,6 @@
 # VueJS tutorial
 
-## create new project
+## how to create new project
 
 0. install VueJS
     ```
