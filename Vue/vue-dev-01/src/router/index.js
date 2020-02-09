@@ -5,6 +5,7 @@ import Ex01 from '../views/Ex01-Interpolation.vue'
 import Ex02 from '../views/Ex02-Binding.vue'
 import Ex03 from '../views/Ex03-Routing.vue'
 import Ex04 from '../views/Ex04-ConditionalsAndLoops.vue'
+import Ex05 from '../views/Ex05-HandlingUserInput.vue'
 
 Vue.use(VueRouter)
 
@@ -41,6 +42,11 @@ const routes = [
     path: '/ex-04',
     name: 'ex-04',
     component: Ex04
+  },
+  {
+    path: '/ex-05',
+    name: 'ex-05',
+    component: Ex05
   }
 ]
 
