@@ -12,6 +12,8 @@
       <li>
         <router-link to="/ex-05">ex-05 - Handling User Input</router-link>
       </li>
+      <li><router-link to="/ex-06">ex-06 - Event</router-link></li>
+      <li><router-link to="/ex-07">ex-07 - Data and Variable</router-link></li>
     </ul>
     <hr />
     <br />
@@ -31,4 +33,9 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+li{
+  /* display: inline;
+  margin-right: 20px; */
+}
+</style>
