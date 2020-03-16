@@ -1,0 +1,14 @@
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.deps.json
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.runtimeconfig.json
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.runtimeconfig.dev.json
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.dll
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.pdb
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\FirstMLAppML.Model.dll
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\bin\Debug\netcoreapp2.1\FirstMLAppML.Model.pdb
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.csprojAssemblyReference.cache
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.AssemblyInfoInputs.cache
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.AssemblyInfo.cs
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.csproj.CopyComplete
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.dll
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.ConsoleApp\obj\Debug\netcoreapp2.1\FirstMLAppML.ConsoleApp.pdb

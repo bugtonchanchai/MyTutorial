@@ -1,0 +1,9 @@
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\bin\Debug\netstandard2.0\FirstMLAppML.Model.deps.json
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\bin\Debug\netstandard2.0\FirstMLAppML.Model.dll
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\bin\Debug\netstandard2.0\FirstMLAppML.Model.pdb
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\obj\Debug\netstandard2.0\FirstMLAppML.Model.csprojAssemblyReference.cache
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\obj\Debug\netstandard2.0\FirstMLAppML.Model.AssemblyInfoInputs.cache
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\obj\Debug\netstandard2.0\FirstMLAppML.Model.AssemblyInfo.cs
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\obj\Debug\netstandard2.0\FirstMLAppML.Model.dll
+D:\GIT\My Tutorial\dotnet\core\FirstMLApp\FirstMLAppML.Model\obj\Debug\netstandard2.0\FirstMLAppML.Model.pdb
