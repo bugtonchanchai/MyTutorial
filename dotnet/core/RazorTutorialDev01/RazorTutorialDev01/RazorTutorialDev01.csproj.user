@@ -10,5 +10,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>RazorTutorialDev01.Data.RazorTutorialDev01Context</WebStackScaffolding_DbContextTypeFullName>
+    <NameOfLastUsedPublishProfile>RazorTutorialDev01 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

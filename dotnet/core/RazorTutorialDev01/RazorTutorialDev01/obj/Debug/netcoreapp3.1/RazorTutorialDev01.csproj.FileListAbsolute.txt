@@ -9,7 +9,6 @@ D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\bin\Debug\n
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\bin\Debug\netcoreapp3.1\RazorTutorialDev01.pdb
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\bin\Debug\netcoreapp3.1\RazorTutorialDev01.Views.dll
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\bin\Debug\netcoreapp3.1\RazorTutorialDev01.Views.pdb
-D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\RazorTutorialDev01.csprojAssemblyReference.cache
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\RazorTutorialDev01.RazorAssemblyInfo.cache
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\RazorTutorialDev01.RazorAssemblyInfo.cs
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\RazorTutorialDev01.AssemblyInfoInputs.cache
@@ -162,3 +161,6 @@ D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\n
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
 D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\RazorTutorialDev01.csprojAssemblyReference.cache
+D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\RazorTutorialDev01.csproj.CoreCompileInputs.cache
+D:\GIT\My Tutorial\dotnet\core\RazorTutorialDev01\RazorTutorialDev01\obj\Debug\netcoreapp3.1\RazorTutorialDev01.genruntimeconfig.cache

@@ -8,30 +8,24 @@ using Microsoft.EntityFrameworkCore;
 using RazorTutorialDev01.Data;
 using RazorTutorialDev01.Models;
 
-namespace RazorTutorialDev01.Pages.Movies
-{
-    public class DetailsModel : PageModel
-    {
+namespace RazorTutorialDev01.Pages.Movies {
+    public class DetailsModel : PageModel {
         private readonly RazorTutorialDev01.Data.RazorTutorialDev01Context _context;
 
-        public DetailsModel(RazorTutorialDev01.Data.RazorTutorialDev01Context context)
-        {
+        public DetailsModel(RazorTutorialDev01.Data.RazorTutorialDev01Context context) {
             _context = context;
         }
 
         public Movie Movie { get; set; }
 
-        public async Task<IActionResult> OnGetAsync(int? id)
-        {
-            if (id == null)
-            {
+        public async Task<IActionResult> OnGetAsync(int? id) {
+            if (id == null) {
                 return NotFound();
             }
 
             Movie = await _context.Movie.FirstOrDefaultAsync(m => m.ID == id);
 
-            if (Movie == null)
-            {
+            if (Movie == null) {
                 return NotFound();
             }
             return Page();

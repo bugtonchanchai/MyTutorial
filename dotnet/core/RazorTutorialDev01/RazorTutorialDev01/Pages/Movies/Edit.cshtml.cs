@@ -9,31 +9,25 @@ using Microsoft.EntityFrameworkCore;
 using RazorTutorialDev01.Data;
 using RazorTutorialDev01.Models;
 
-namespace RazorTutorialDev01.Pages.Movies
-{
-    public class EditModel : PageModel
-    {
+namespace RazorTutorialDev01.Pages.Movies {
+    public class EditModel : PageModel {
         private readonly RazorTutorialDev01.Data.RazorTutorialDev01Context _context;
 
-        public EditModel(RazorTutorialDev01.Data.RazorTutorialDev01Context context)
-        {
+        public EditModel(RazorTutorialDev01.Data.RazorTutorialDev01Context context) {
             _context = context;
         }
 
         [BindProperty]
         public Movie Movie { get; set; }
 
-        public async Task<IActionResult> OnGetAsync(int? id)
-        {
-            if (id == null)
-            {
+        public async Task<IActionResult> OnGetAsync(int? id) {
+            if (id == null) {
                 return NotFound();
             }
 
             Movie = await _context.Movie.FirstOrDefaultAsync(m => m.ID == id);
 
-            if (Movie == null)
-            {
+            if (Movie == null) {
                 return NotFound();
             }
             return Page();
@@ -41,27 +35,19 @@ namespace RazorTutorialDev01.Pages.Movies
 
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for
         // more details see https://aka.ms/RazorPagesCRUD.
-        public async Task<IActionResult> OnPostAsync()
-        {
-            if (!ModelState.IsValid)
-            {
+        public async Task<IActionResult> OnPostAsync() {
+            if (!ModelState.IsValid) {
                 return Page();
             }
 
             _context.Attach(Movie).State = EntityState.Modified;
 
-            try
-            {
+            try {
                 await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!MovieExists(Movie.ID))
-                {
+            } catch (DbUpdateConcurrencyException) {
+                if (!MovieExists(Movie.ID)) {
                     return NotFound();
-                }
-                else
-                {
+                } else {
                     throw;
                 }
             }
@@ -69,8 +55,7 @@ namespace RazorTutorialDev01.Pages.Movies
             return RedirectToPage("./Index");
         }
 
-        private bool MovieExists(int id)
-        {
+        private bool MovieExists(int id) {
             return _context.Movie.Any(e => e.ID == id);
         }
     }
