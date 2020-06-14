@@ -1,0 +1,13 @@
+D:\GIT\My Tutorial\dotnet\5\myApp\bin\Debug\net5.0\myApp.exe
+D:\GIT\My Tutorial\dotnet\5\myApp\bin\Debug\net5.0\myApp.deps.json
+D:\GIT\My Tutorial\dotnet\5\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+D:\GIT\My Tutorial\dotnet\5\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+D:\GIT\My Tutorial\dotnet\5\myApp\bin\Debug\net5.0\myApp.dll
+D:\GIT\My Tutorial\dotnet\5\myApp\bin\Debug\net5.0\myApp.pdb
+D:\GIT\My Tutorial\dotnet\5\myApp\obj\Debug\net5.0\myApp.csprojAssemblyReference.cache
+D:\GIT\My Tutorial\dotnet\5\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+D:\GIT\My Tutorial\dotnet\5\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+D:\GIT\My Tutorial\dotnet\5\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+D:\GIT\My Tutorial\dotnet\5\myApp\obj\Debug\net5.0\myApp.dll
+D:\GIT\My Tutorial\dotnet\5\myApp\obj\Debug\net5.0\myApp.pdb
+D:\GIT\My Tutorial\dotnet\5\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
